@@ -52,7 +52,7 @@
 
 ## PROJECTS
 
-### AutoIPTV | 01/2017 - 07/2019
+### AutoIPTV | 2 years & 6 months | 01/2017 - 07/2019
 
 * Developed an API for IPTV streaming and built a crawler to extract links, enabling other developers to build their own streaming services
 
