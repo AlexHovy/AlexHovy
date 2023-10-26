@@ -19,15 +19,20 @@
 ## PROFESSIONAL EXPERIENCE
 
 **[Britehouse Mobility](https://www.britehousemobility.com/) | Senior Software Engineer | 03/2022 - Present**
+
 * Led projects, collaborated with other teams, managed client expectations, delegated tasks to team members, and mentored them to achieve successful outcomes
 * Rebuilt the Tsogo Sun app with improved and enhanced integrated APIs, ensuring scalability and performance through load testing
 * Expanded the BIDTravel portal to onboard other brands, enhanced PNR processing procedures, and improved overall robustness
 * Enhanced KaapAgri portal functionality to reduce support queries, and built integrated API reporting
+
 **Projects**: **Projects**: [Tsogo Sun](https://www.tsogosun.com/), [Makro](https://www.makro.co.za/), [Shoprite](https://www.shoprite.co.za/), [Lenmed](https://www.lenmed.co.za/), [Clinix](https://clinix.co.za/), [National Treasury](http://www.treasury.gov.za/), [KalGroup](https://www.kalgroup.co.za/), [BIDTravel](https://www.bidtravel.co.za/)
 
+
 **Syncrony | Intermediate Software Engineer | 4 years | 02/2018 - 02/2022**
-Architected a board portal SaaS solution to empower teams and organisations to effectively manage and govern their meetings
-Engineered a cloud-based, multi-format document storage and distribution platform with a hierarchical tree structure organisation interface to improve document management
-Built an IoT integration to capture blood glucose levels, with a portal and reporting solution for improved diabetes management
-Created a booking and payment integration system for ATKV accommodations, streamlining the customer experience
-Projects: BoardCloud, Compozr, The Pharma World, ATKV
+
+* Architected a board portal SaaS solution to empower teams and organisations to effectively manage and govern their meetings
+* Engineered a cloud-based, multi-format document storage and distribution platform with a hierarchical tree structure organisation interface to improve document management
+* Built an IoT integration to capture blood glucose levels, with a portal and reporting solution for improved diabetes management
+* Created a booking and payment integration system for ATKV accommodations, streamlining the customer experience
+
+**Projects**: [BoardCloud](https://boardcloud.org/), [Compozr](https://compozr.net/), [The Pharma World](https://thepharmaworld.co.za/), [ATKV](https://atkv.org.za/)
