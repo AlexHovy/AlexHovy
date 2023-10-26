@@ -1,13 +1,5 @@
-# Still under construction
-
-<p align="center">
-  Alex Hovy
-  <br>
-  <a href="tel:+27728083050">+27 72 808 3050</a> | <a href="mailto:alexshovy@gmail.com">alexshovy@gmail.com</a> | <a href="https://github.com/AlexHovy/">GitHub</a> | <a href="https://www.linkedin.com/in/alexhovy/">LinkedIn</a>
-</p>
-
-
-Agile full stack software engineer with experience in designing, developing, deploying, maintaining and implementing bespoke solutions using a range of technologies and languages.
+# Alex Hovy | Full Stack Software Engineer
+[+27 72 808 3050](tel:+27728083050) | [alexshovy@gmail.com](alexshovy@gmail.com) | [GitHub](https://github.com/AlexHovy) | [LinkedIn](https://www.linkedin.com/in/alexhovy/)
 
 
 ## WORK EXPERIENCE
