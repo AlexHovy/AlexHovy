@@ -27,7 +27,6 @@
 
 **Projects**: [Tsogo Sun](https://www.tsogosun.com/), [Makro](https://www.makro.co.za/), [Shoprite](https://www.shoprite.co.za/), [Lenmed](https://www.lenmed.co.za/), [Clinix](https://clinix.co.za/), [National Treasury](http://www.treasury.gov.za/), [KalGroup](https://www.kalgroup.co.za/), [BIDTravel](https://www.bidtravel.co.za/)
 
-<br />
 
 ### [Syncrony](https://syncrony.com/) | Intermediate Software Engineer | 4 years | 02/2018 - 02/2022
 
@@ -38,7 +37,6 @@
 
 **Projects**: [BoardCloud](https://boardcloud.org/), [Compozr](https://compozr.net/), [The Pharma World](https://thepharmaworld.co.za/), [ATKV](https://atkv.org.za/)
 
-<br />
 
 ### [NetCad](https://www.netcadgroup.co.za/) | Software Engineer & Technical Support | 1 year | 01/2017 - 01/2018
 
@@ -46,7 +44,6 @@
 
 **Projects**: [Intracad](http://intracad.co.za/)
 
-<br />
 
 ### [OMSA Connect](https://omsa-connect.co.za/) | Technical Support | 11 months | 01/2016 - 12/2016
 * Installed network infrastructure and security cameras, providing comprehensive customer support throughout the process
