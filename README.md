@@ -18,7 +18,7 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-**[Britehouse Mobility](https://www.britehousemobility.com/) | Senior Software Engineer | 03/2022 - Present**
+### [Britehouse Mobility](https://www.britehousemobility.com/) | Senior Software Engineer | 03/2022 - Present
 
 * Led projects, collaborated with other teams, managed client expectations, delegated tasks to team members, and mentored them to achieve successful outcomes
 * Rebuilt the Tsogo Sun app with improved and enhanced integrated APIs, ensuring scalability and performance through load testing
@@ -29,7 +29,7 @@
 
 <br />
 
-**[Syncrony](https://syncrony.com/) | Intermediate Software Engineer | 4 years | 02/2018 - 02/2022**
+### [Syncrony](https://syncrony.com/) | Intermediate Software Engineer | 4 years | 02/2018 - 02/2022
 
 * Architected a board portal SaaS solution to empower teams and organisations to effectively manage and govern their meetings
 * Engineered a cloud-based, multi-format document storage and distribution platform with a hierarchical tree structure organisation interface to improve document management
@@ -40,7 +40,7 @@
 
 <br />
 
-**[NetCad](https://www.netcadgroup.co.za/) | Software Engineer & Technical Support | 1 year | 01/2017 - 01/2018**
+### [NetCad](https://www.netcadgroup.co.za/) | Software Engineer & Technical Support | 1 year | 01/2017 - 01/2018
 
 * Developed in-house tools to enhance support services, improve client and server backup monitoring, and provide centralised access to these tools through an internal portal
 
@@ -48,20 +48,20 @@
 
 <br />
 
-**[OMSA Connect](https://omsa-connect.co.za/) | Technical Support | 11 months | 01/2016 - 12/2016**
+### [OMSA Connect](https://omsa-connect.co.za/) | Technical Support | 11 months | 01/2016 - 12/2016
 * Installed network infrastructure and security cameras, providing comprehensive customer support throughout the process
 
 ---
 
-# PROJECTS
+## PROJECTS
 
-**AutoIPTV | 01/2017 - 07/2019**
+### AutoIPTV | 01/2017 - 07/2019
 
 * Developed an API for IPTV streaming and built a crawler to extract links, enabling other developers to build their own streaming services
 
 ---
 
-# EDUCATION
+## EDUCATION
 
 * Self taught developer since 2011
 * Hoërskool Randburg | National Senior Certificate with minimum requirements for Bachelor’s degree
