@@ -60,5 +60,5 @@
 
 ## EDUCATION
 
-* Self taught developer since 2011
-* Hoërskool Randburg | National Senior Certificate with minimum requirements for Bachelor’s degree
+* **Self taught developer since 2011**
+* **Hoërskool Randburg** | National Senior Certificate with minimum requirements for Bachelor’s degree
