@@ -1,6 +1,6 @@
 # Alex Hovy `Full Stack Software Engineer`
 
-[+27 72 808 3050](tel:+27728083050) | [alexshovy@gmail.com](alexshovy@gmail.com) | [GitHub](https://github.com/AlexHovy) | [LinkedIn](https://www.linkedin.com/in/alexhovy/)
+<a href="tel:+27728083050">+27 72 808 3050</a> | [alexshovy@gmail.com](alexshovy@gmail.com) | [GitHub](https://github.com/AlexHovy) | [LinkedIn](https://www.linkedin.com/in/alexhovy/)
 
 ---
 
@@ -27,6 +27,7 @@
 
 **Projects**: **Projects**: [Tsogo Sun](https://www.tsogosun.com/), [Makro](https://www.makro.co.za/), [Shoprite](https://www.shoprite.co.za/), [Lenmed](https://www.lenmed.co.za/), [Clinix](https://clinix.co.za/), [National Treasury](http://www.treasury.gov.za/), [KalGroup](https://www.kalgroup.co.za/), [BIDTravel](https://www.bidtravel.co.za/)
 
+<br />
 
 **Syncrony | Intermediate Software Engineer | 4 years | 02/2018 - 02/2022**
 
