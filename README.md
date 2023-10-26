@@ -44,7 +44,7 @@
 
 * Developed in-house tools to enhance support services, improve client and server backup monitoring, and provide centralised access to these tools through an internal portal
 
-** Projects **: [Intracad](http://intracad.co.za/)
+**Projects**: [Intracad](http://intracad.co.za/)
 
 <br />
 
@@ -55,7 +55,7 @@
 
 # PROJECTS
 
-** AutoIPTV | 01/2017 - 07/2019 **
+**AutoIPTV | 01/2017 - 07/2019**
 
 * Developed an API for IPTV streaming and built a crawler to extract links, enabling other developers to build their own streaming services
 
