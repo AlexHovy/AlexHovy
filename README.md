@@ -48,6 +48,7 @@
 ### [OMSA Connect](https://omsa-connect.co.za/) | Technical Support | 11 months | 01/2016 - 12/2016
 * Installed network infrastructure and security cameras, providing comprehensive customer support throughout the process
 
+<br />
 
 ## PROJECTS
 
@@ -55,6 +56,7 @@
 
 * Developed an API for IPTV streaming and built a crawler to extract links, enabling other developers to build their own streaming services
 
+<br />
 
 ## EDUCATION
 
