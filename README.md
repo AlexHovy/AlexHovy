@@ -44,9 +44,24 @@
 
 * Developed in-house tools to enhance support services, improve client and server backup monitoring, and provide centralised access to these tools through an internal portal
 
-**Projects**: [Intracad](http://intracad.co.za/)
+** Projects **: [Intracad](http://intracad.co.za/)
 
 <br />
 
 **[OMSA Connect](https://omsa-connect.co.za/) | Technical Support | 11 months | 01/2016 - 12/2016**
 * Installed network infrastructure and security cameras, providing comprehensive customer support throughout the process
+
+---
+
+# PROJECTS
+
+** AutoIPTV | 01/2017 - 07/2019 **
+
+* Developed an API for IPTV streaming and built a crawler to extract links, enabling other developers to build their own streaming services
+
+---
+
+# EDUCATION
+
+* Self taught developer since 2011
+* Hoërskool Randburg | National Senior Certificate with minimum requirements for Bachelor’s degree
