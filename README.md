@@ -1,6 +1,8 @@
+<p style="text-align: center">
 # Alex Hovy | `Full Stack Software Engineer`
 
 [+27 72 808 3050](tel:+27728083050) | [alexshovy@gmail.com](alexshovy@gmail.com) | [GitHub](https://github.com/AlexHovy) | [LinkedIn](https://www.linkedin.com/in/alexhovy/)
+</p>
 
 ---
 
