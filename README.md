@@ -7,8 +7,11 @@
 ## TECHNICAL SKILLS
 
 **Programming Languages**: `C#`, `Python`, `TypeScript`, `JavaScript`, `HTML`, `CSS`, `PHP`
+
 **Frameworks & Libraries**: `.NET Core`, `Angular`, `Flutter`, `React`, `Node.js`, `Xamarin`, `Blazor`
+
 **Databases**: `MSSQL`, `MySQL`, `PostgreSQL`, `MongoDB`, `Firebase`, `Cosmos Db`
+
 **Tools & Methodologies**: `Docker`, `Git`, `Agile`, `Azure`, `DevOps`, `CI/CD`, `Unit testing`
 
 
