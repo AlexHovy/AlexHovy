@@ -45,14 +45,14 @@
 **Projects**: [Intracad](http://intracad.co.za/)
 
 
-### [OMSA Connect](https://omsa-connect.co.za/) | Technical Support | 11 months | 01/2016 - 12/2016
+### [OMSA Connect](https://omsa-connect.co.za/) | Technical Support | 1 year | 01/2016 - 12/2016
 * Installed network infrastructure and security cameras, providing comprehensive customer support throughout the process
 
 <br />
 
 ## PROJECTS
 
-### AutoIPTV | 2 years & 6 months | 01/2017 - 07/2019
+### AutoIPTV | 2.5 years | 01/2017 - 07/2019
 
 * Developed an API for IPTV streaming and built a crawler to extract links, enabling other developers to build their own streaming services
 
