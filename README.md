@@ -4,7 +4,7 @@
 
 <br />
 
-## TECHNICAL SKILLS
+## SKILLS
 
 **Programming Languages**: `C#`, `Python`, `TypeScript`, `JavaScript`, `HTML`, `CSS`, `PHP`
 
@@ -16,7 +16,7 @@
 
 <br />
 
-## PROFESSIONAL EXPERIENCE
+## WORK EXPERIENCE
 
 ### [Britehouse Mobility](https://www.britehousemobility.com/) | Senior Software Engineer | 03/2022 - Present
 
