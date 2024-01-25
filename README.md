@@ -18,7 +18,7 @@
 
 ## WORK EXPERIENCE
 
-### [Britehouse Mobility](https://www.britehousemobility.com/) | Senior Software Engineer | 03/2022 - Present
+### [Britehouse Mobility](https://www.britehousemobility.com/) | Senior Software Engineer | 2 years | 03/2022 - 02/2024
 
 * Led projects, collaborated with other teams, managed client expectations, delegated tasks to team members, and mentored them to achieve successful outcomes
 * Rebuilt the Tsogo Sun app with improved and enhanced integrated APIs, ensuring scalability and performance through load testing
