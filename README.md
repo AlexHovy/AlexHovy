@@ -6,13 +6,13 @@
 
 ## SKILLS
 
-**Programming Languages**: `C#`, `Python`, `TypeScript`, `JavaScript`, `HTML`, `CSS`, `PHP`
+**Languages**: `C#`, `Python`, `TypeScript`, `JavaScript`, `HTML`, `CSS`, `PHP`
 
-**Frameworks & Libraries**: `.NET Core`, `Angular`, `Flutter`, `React`, `Node.js`, `Xamarin`, `Blazor`
+**Frameworks**: `.NET Core`, `Angular`, `Flutter`, `React`, `Node.js`, `Xamarin`, `Blazor`, `Umbraco`, `Spartacus`
 
 **Databases**: `MSSQL`, `MySQL`, `PostgreSQL`, `MongoDB`, `Firebase`, `Cosmos Db`
 
-**Tools & Methodologies**: `Docker`, `Git`, `Agile`, `Azure`, `DevOps`, `CI/CD`, `Unit testing`
+**Tools**: `Azure`, `AWS`, `Docker`
 
 <br />
 
@@ -60,5 +60,5 @@
 
 ## EDUCATION
 
-* **Self taught developer since 2011**
+* **Self taught developer since birth**
 * **Hoërskool Randburg** | National Senior Certificate with minimum requirements for Bachelor’s degree
